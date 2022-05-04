@@ -1,0 +1,31 @@
+{
+  "name": "timecall",
+  "version": "1.0.0",
+  "description": "timeCall.js is a simple library that used to get a human readable form of date object.",
+  "main": "./dist/timecall.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "timecall",
+    "momentjs",
+    "format time",
+    "format date",
+    "date",
+    "time",
+    "JavaScript",
+    "JavaScript Date",
+    "JavaScript time"
+  ],
+
+  "author": "Indaneey_design <indaneeey@gmail.com>",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/core": "^7.12.10",
+    "@babel/preset-env": "^7.12.10",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.2.2",
+    "babel-preset-es2015": "^6.24.1"
+  }
+}
