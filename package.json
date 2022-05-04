@@ -15,9 +15,20 @@
     "time",
     "JavaScript",
     "JavaScript Date",
-    "JavaScript time"
+    "JavaScript time",
+    "format",
+    "validate",
+    "validate date",
+    "validate time",
+    "i18n",
+    "l10n",
+    "ender",
+    "moment"
   ],
-
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indaneey/timeCall.git"
+  },
   "author": "Indaneey_design <indaneeey@gmail.com>",
   "license": "MIT",
   "dependencies": {},
@@ -27,5 +38,9 @@
     "babel-core": "^6.26.3",
     "babel-loader": "^8.2.2",
     "babel-preset-es2015": "^6.24.1"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/indaneey/timeCall/issues"
+  },
+  "homepage": "https://github.com/indaneey/timeCall#readme"
 }
