@@ -1,5 +1,5 @@
 {
-  "name": "timecall",
+  "name": "@indaneey/timecall",
   "version": "1.0.0",
   "description": "timeCall.js is a simple library that used to get a human readable form of date object.",
   "main": "./dist/timecall.min.js",
